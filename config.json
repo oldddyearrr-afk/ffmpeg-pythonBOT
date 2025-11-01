@@ -1,0 +1,10 @@
+
+{
+  "CLIP_SECONDS": 14,
+  "SLEEP_BETWEEN": 2,
+  "WATERMARK_TEXT": "@xl9rr",
+  "WATERMARK_POSITION": "bottom-center",
+  "WATERMARK_MODE": "scroll",
+  "ADD_TIMESTAMP": false,
+  "BUFFER_SIZE": 1
+}
